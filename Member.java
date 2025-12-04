@@ -5,7 +5,6 @@ package project2;
  * Group Members:
  * - Meshal Alhusaini  (ID: 445100204)
  * - Abdullah alshedayed (ID: 446106970)
- * - [Add 3rd Member Name] (ID: [Add ID])
  *
  * This class represents a library member account. It manages individual
  * session statistics and contributes to global library statistics.
@@ -160,4 +159,5 @@ public class Member {
     public String getName() {
         return name;
     }
+
 }
