@@ -5,7 +5,6 @@ package project2;
  * Group Members:
  * - Meshal Alhusaini  (ID: 445100204)
  * - Abdullah alshedayed (ID: 446106970)
- * - [Add 3rd Member Name] (ID: [Add ID])
  *
  * This program implements a Library Simulation System in Java.
  * It utilizes the Member class to manage user accounts and statistics.
@@ -204,4 +203,5 @@ public class LibrarySimulator {
             System.out.println("No user operations (borrow or return) have been performed yet.");
         }
     }
+
 }
